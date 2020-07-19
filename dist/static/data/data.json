@@ -1,0 +1,63 @@
+{
+    "artList":[
+        {
+            "id":1,
+            "title":"snowing",
+            "auther":"Lily",
+            "summary":"Hooray! It's snowing!",
+            "content":"Hooray! It's snowing! It's time to make a snowman.James runs out. He makes a big pile of snow. He puts a big snowball on top. He adds a scarf and a hat. He adds an orange for the nose. He adds coal for the eyes and buttons.In the evening, James opens the door. What does he see? The snowman is moving! James invites him in. The snowman has never been inside a house. He says hello to the cat. He plays with paper towels.A moment later, the snowman takes James's hand and goes out.They go up, up, up into the air! They are flying! What a wonderful night!The next morning, James jumps out of bed. He runs to the door.He wants to thank the snowman. But he's gone.",
+            "keyWords":["Hooray","snowing","snowman"],
+            "links":["https://www.baidu.com/"],
+            "isShow":false
+        },
+        {
+            "id":2,
+            "title":"Piano Class",
+            "auther":"adreep",
+            "summary":"Every parent wants their daughters to learn ballet and piano.",
+            "content":"Every parent wants their daughters to learn ballet and piano. My mother finds me having no talent in ballet, so she chooses to send me to learn piano. At first, I am not very interested in it, but soon I find practising it every day makes me feel bored. I want to give up, but the girls around me keep coming to the class, so I decide to hold on.",
+            "keyWords":["Piano","class","talent"],
+            "links":["https://www.taobao.com/","https://www.baidu.com/"],
+            "isShow":false
+        },{
+            "id":3,
+            "title":"What is Healthy Sleep",
+            "auther":"Cathleen",
+            "summary":"You know that sleep is vital to your physical and mental health.",
+            "content":"You know that sleep is vital to your physical and mental health. But, how can you tell whether you’re truly sleeping well? Especially if you work shifts, your sleep probably does not look exactly like other peoples’ sleep. It can be hard to measure your sleep patterns against those of the people around you.",
+            "keyWords":["Sleep","physical","health"],
+            "links":["https://www.taobao.com/","https://www.jd.com/"],
+            "isShow":false
+        },
+        {
+            "id":5,
+            "title":"Chinese Food",
+            "auther":"adreep",
+            "summary":"Chinese food is colorful.",
+            "content":"Chinese food is colorful, varied, delicious, and nutritious. Chinese people cares not only about the taste of the food, but also about its color and smell. Food in different places has different flavors. Beijing food is quite oily and salty; Shanghai food is sweet and light; Sichuan food is spicy and hot; and Cantonese food is fresh and tender. What's more, there are some popular local snacks. For example, Beijing Roast Duck has a good reputation for its tender meat, while the steam buns in Shanghai are well known for their juicy ingredients.",
+            "keyWords":["colorful","Food","delicious"],
+            "links":["https://www.tuniu.com/","https://www.jd.com/"],
+            "isShow":false
+        },
+        {
+            "id":6,
+            "title":"Wechat Red packet",
+            "auther":"adreep",
+            "summary":"Chinese food is colorful.",
+            "content":"Wechat is very popular nowadays, even the foreigners are crazy about this communicative tool. The functions of Wechat are various, such as talking to friends and paying the bill. One of the hottest functions is to send red packet. If people want to catch everybody’s attention in the group talk, sending a red packet works well. Everybody is excited to share the money and they will feel lucky if they get the money. This function brings happiness and I love it so much. Sometimes when I hear the voice, I will open the phone and try to get the money as soon as possible. When I open the red packet, I will be very happy. ",
+            "keyWords":["Wechat","packet","tool","hottest"],
+            "links":["https://www.tuniu.com/","https://www.jd.com/"],
+            "isShow":false
+        },
+        {
+            "id":7,
+            "title":"No Sell, No Kill",
+            "auther":"Cathleen",
+            "summary":"People should protect the animals.",
+            "content":"We have been educated that animals are part of nature and they are also our friends. People should protect the animals, for saving themselves to some degree. But some people kill the animals for getting money, they hurt these lovely creatures. If we refuse to buy the products or food that made by animals, we can save them. When there is no sell, there will be no kill.",
+            "keyWords":["Sell","educated","protect","hottest"],
+            "links":["https://www.tuniu.com/","https://www.jd.com/"],
+            "isShow":false
+        }
+    ]
+}
